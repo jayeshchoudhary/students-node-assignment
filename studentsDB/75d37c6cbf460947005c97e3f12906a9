@@ -1,0 +1,20 @@
+{
+    "key": "students",
+    "value": [
+        {
+            "id": 1,
+            "name": "Mark",
+            "gpa": 8
+        },
+        {
+            "id": 2,
+            "name": "John",
+            "gpa": 10
+        },
+        {
+            "id": 3,
+            "name": "Shawn",
+            "gpa": 11
+        }
+    ]
+}
